@@ -1,5 +1,5 @@
 # Differential-Drive-Mobile-Robot
-MJCF Model of a Differential-Drive Mobile Robot for Use in the MuJoCo Physics Engine
+MJCF Model of a Differential-Drive Mobile Robot Suitable for Use in the MuJoCo Physics Engine
 
 
 <img width="603" height="524" alt="image" src="https://github.com/user-attachments/assets/27ca7648-b1cb-4ae0-98bf-5c8b915c7def" />
